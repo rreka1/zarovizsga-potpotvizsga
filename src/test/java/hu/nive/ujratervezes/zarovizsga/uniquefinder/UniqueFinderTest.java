@@ -1,4 +1,4 @@
-/*package hu.nive.ujratervezes.zarovizsga.uniquefinder;
+package hu.nive.ujratervezes.zarovizsga.uniquefinder;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -126,4 +126,4 @@ public class UniqueFinderTest {
         expected.add('0');
         assertEquals(expected, uniqueFinder.uniqueChars("<3 java && my team @ pm @ 3:00"));
     }
-}*/
+}
