@@ -1,4 +1,4 @@
-/*package hu.nive.ujratervezes.zarovizsga.aquarium;
+package hu.nive.ujratervezes.zarovizsga.aquarium;
 
 import org.junit.jupiter.api.Test;
 
@@ -40,4 +40,4 @@ class FishTest {
         assertTrue(tang.hasMemoryLoss());
     }
 
-}*/
+}
