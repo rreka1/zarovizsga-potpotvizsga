@@ -1,4 +1,4 @@
-/*package hu.nive.ujratervezes.zarovizsga.aquarium;
+package hu.nive.ujratervezes.zarovizsga.aquarium;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -134,4 +134,4 @@ class AquariumTest {
     }
 
 
-}*/
+}
